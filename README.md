@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=araf1011&show_icons=true&locale=en" alt="araf1011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araf1011&" alt="araf1011" /></p>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/soumensen411/count.svg?"  />
+</div>
