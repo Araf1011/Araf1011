@@ -50,7 +50,7 @@
         20% { content: "Hola"; }
         40% { content: "नमस्ते"; }
         60% { content: "سلام"; }
-        80% { content: "Bonjour"; }
+        60% { content: "Bonjour"; }
         100% { content: "Ciao"; }
     }
 
