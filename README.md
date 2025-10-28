@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *myselfaraf1457@gmail.com*
 
-- ⚡ Fun fact *I think i am funny 🙂*
+- ⚡ Serious fact *I think i am introvert 🙂*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
