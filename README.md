@@ -1,33 +1,67 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm ARAF</h1>
-<h3 align="center">Pushing bugs to GitHub since 2024 🐛</h3>
-<h3 align="center"> Broke student, rich in bugs | 50% logic, 50% Stack Overflow | Still waiting for my code to compile 😩</h3>
-<h3 align="center">Learning ML because why not let the computer suffer too 🤖</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Araf&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=%20Gamer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
-- 🌱 I’m currently learning *C/C++/Java/Python*
+I'm Araf, a 2nd-year Computer Science student and trying to be a Frontend Developer , passionate about AI and Machine Learning. I enjoy building interactive web projects and exploring intelligent solutions.
 
-- 📫 How to reach me *myselfaraf1457@gmail.com*
 
-- ⚡ Serious fact *I think i am introvert 🙂*
+💡 *“Crafting logic and elegance in every line of code.”*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@myself_araf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@myself_araf" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/c241143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c241143" height="30" width="40" /></a>
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+### 📬 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-myselfaraf1457@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
+[![Instagram Badge](https://img.shields.io/badge/-@myself_araf-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/myself_araf?igsh=MWY0M3hmMXd0OGxqNw==)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Araf-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook Badge](https://img.shields.io/badge/-Mohammad%20Araf-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/myselfaraf.1/)
+[![Discord Badge](https://img.shields.io/badge/-Araf-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com)
+[![](https://komarev.com/ghpvc/?username=MohammadAraf&color=blue&label=Profile%20Views)](https://github.com/Araf1011)
+[![](https://img.shields.io/github/followers/ARAF?label=GitHub%20Followers)](https://github.com/Araf1011)
+
+---
+
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,python&theme=light" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araf1011&show_icons=true&locale=en&layout=compact" alt="araf1011" /></p>
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=araf1011&show_icons=true&locale=en" alt="araf1011" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araf1011&" alt="araf1011" /></p>
+### 📊 GitHub Statistics
 
-<br clear="both">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Araf1011&theme=react&show_icons=true&hide_border=false)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/araf1011/count.svg?"  />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Araf1011&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+
+---
+
+### 🧩 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araf1011&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+
+
+---
+
+
+## 🏆 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Araf1011&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+---
+
+<p align="center">
+  <i>“Code is where creativity meets logic.”</i> ✨
+</p>
