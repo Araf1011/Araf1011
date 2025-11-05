@@ -62,6 +62,21 @@ I'm Araf, a 2nd-year Computer Science student and trying to be a Frontend Develo
 
 ---
 
+## <img src="graph.gif" width=5% valign="bottom"> My Contribution Graph
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Araf1011&theme=react-dark)
+
+<br/>
+
+<div align=left>
+ <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="23"> Python Eating My Contributions</h2>
+
+  <br>
+
+  
+  <br/>
+</div>
+
 <p align="center">
   <i>“Code is where creativity meets logic.”</i> ✨
 </p>
