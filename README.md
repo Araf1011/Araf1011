@@ -1,134 +1,174 @@
 <div align="center">
 
-# 👋 Hi, I'm MD Al Araf Hossain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=MD%20Al%20Araf%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%7C%20CSE%20%40%20IIUC&descAlignY=58&descSize=18" width="100%" alt="Header">
 
-### 💻 CSE Student • Full-Stack Developer • ML/AI Enthusiast
+<a href="https://github.com/Araf1011"><img src="https://img.shields.io/badge/GitHub-Araf1011-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=Araf1011&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
 
-<p>
-  <a href="https://github.com/Araf1011"><img src="https://img.shields.io/badge/GitHub-Araf1011-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+</div>
 
-<p><em>Building things, breaking things, learning how they work — then building them better.</em></p>
+## 👨‍💻 Who Am I?
+
+<div align="center">
+
+> **I build. I break. I debug. I learn. I ship.**
+
+</div>
+
+Computer Science & Engineering student at **International Islamic University Chittagong (IIUC)**, focused on turning ideas into practical software.
+
+- 🌐 Building full-stack applications with **React, JavaScript, Django & REST APIs**
+- 🐍 Going deeper into **Python and ML/AI**
+- 🧠 Strengthening **DSA, DBMS, Operating Systems & software engineering fundamentals**
+- 🚀 Interested in building products rather than only completing tutorials
+- 🤝 Open to collaboration, interesting projects, and learning opportunities
+
+---
+
+## ⚡ My Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,react,nodejs,express,django,mongodb,mysql,sqlite,firebase,git,github,linux,vscode&perline=10" alt="Tech stack">
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Things I Build
 
-I’m a Computer Science & Engineering student at International Islamic University Chittagong (IIUC) with a growing focus on software engineering, full-stack development, and ML/AI.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy turning ideas into working products — from university projects and REST APIs to full-stack web applications. Right now, I’m strengthening my backend foundations while exploring Python, machine learning, and modern application development.
+### 🎫 IIUC EventEra
+Full-stack campus event management platform.
 
-```text
-🎓 CSE Student
-│
-├── 🌐 Full-Stack Development
-│   ├── React
-│   ├── JavaScript
-│   └── Django / REST APIs
-│
-├── 🤖 Exploring ML / AI
-│   ├── Python
-│   ├── Data Manipulation
-│   └── Model Training
-│
-└── 🧠 Foundations
-    ├── C / C++
-    ├── DSA
-    ├── DBMS
-    └── Operating Systems
-```
+**Highlights**
+- 🔐 Firebase authentication
+- 🎟️ Event registration
+- 💳 Payment submission
+- 📄 PDF passes + QR codes
+- 🛡️ Admin control center
+- 📡 QR-based registration flow
 
----
+<a href="https://github.com/Araf1011/IIUC-EventEra">View Project →</a>
 
-## ⚡ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### Languages
-<p><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java" alt="Languages"></p>
+### 🧑‍💻 Software Engineering Lab
+Django-focused engineering & backend learning repository.
 
-### Web & Backend
-<p><img src="https://skillicons.dev/icons?i=html,css,react,django,nodejs,express" alt="Web and Backend"></p>
+**Learning**
+- 🏗️ Django architecture
+- 🗄️ Models & databases
+- 🌐 REST APIs
+- 🔄 CRUD operations
+- 🧩 Serializers
+- 🧪 Testing & debugging
 
-### Tools & Technologies
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mongodb,mysql,sqlite" alt="Tools and Technologies"></p>
+<a href="https://github.com/Araf1011/Software-Engineering-Lab">View Project →</a>
 
----
-
-## 🚀 What I’m Building
-
-| Project | What it is |
-|---|---|
-| 🎫 **IIUC EventEra** | Full-stack campus event management platform with authentication, event registration, payments, QR passes, and admin controls. |
-| 🧑‍💻 **Software Engineering Lab** | Django-focused learning repository covering models, views, REST APIs, CRUD, serializers, and backend fundamentals. |
-| 🌐 **Web Development Projects** | Small-to-medium projects used to practice frontend, backend, database, and deployment concepts. |
-| 🧠 **ML / AI Experiments** | Exploring Python-based data manipulation, model training, and practical AI applications. |
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub
+## 🧭 Current Mission
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Araf1011&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araf1011&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages">
+
+```text
+                 ┌─────────────────────────────┐
+                 │     BUILDING MY ENGINE      │
+                 └──────────────┬──────────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              ▼                 ▼                 ▼
+          🌐 BACKEND         ⚛️ FRONTEND       🤖 AI / ML
+              │                 │                 │
+          Django / API         React            Python
+          Databases            UI/UX            Data
+          Architecture         Apps             Models
+              └─────────────────┼─────────────────┘
+                                ▼
+                     🚀 REAL-WORLD SOFTWARE
+```
+
+</div>
+
+### 🎯 Learning Path
+
+<div align="center">
+<img src="https://img.shields.io/badge/01%20FOUNDATIONS-111827?style=for-the-badge" alt="Foundations">
+<img src="https://img.shields.io/badge/02%20BACKEND-2563eb?style=for-the-badge" alt="Backend">
+<img src="https://img.shields.io/badge/03%20FULL--STACK-7c3aed?style=for-the-badge" alt="Full stack">
+<img src="https://img.shields.io/badge/04%20AI%20%2F%20ML-059669?style=for-the-badge" alt="AI ML">
+<img src="https://img.shields.io/badge/05%20SYSTEMS%20%26%20DEVOPS-374151?style=for-the-badge" alt="Systems and DevOps">
 </div>
 
 ---
 
-## 🧭 Current Focus
-
-```text
-NOW
-├── 🐍 Python
-├── 🌐 Django + REST APIs
-├── ⚛️ React
-├── 🗄️ Databases
-├── 🧠 Data Structures & Algorithms
-└── 🤖 ML / AI
-
-NEXT
-├── 🏗️ Software architecture
-├── 🔐 Authentication & security
-├── 🧪 Testing
-├── 🐳 Docker
-└── ☁️ Deployment & DevOps
-```
-
----
-
-## 🛠️ My Learning Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Ship**
-
-I don’t want to only learn syntax or follow tutorials. My goal is to understand how real software works, build projects around that knowledge, and continuously improve through hands-on practice.
-
----
-
-## 🌱 Beyond Code
-
-- 🎮 Valorant & esports
-- ✈️ Travel
-- 🎵 Music
-- 💡 Building side projects
-- 🤝 Volunteering & community involvement
-
----
-
-## 🤝 Let’s Connect
-
-I’m always interested in building projects, learning new technologies, collaborating with developers, and discussing software engineering.
+## 📊 GitHub Command Center
 
 <div align="center">
 
-### 💬 Open to learning • collaboration • interesting projects
+<img src="https://github-readme-stats.vercel.app/api?username=Araf1011&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" height="180" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araf1011&layout=donut&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top languages">
 
-<a href="https://github.com/Araf1011"><img src="https://img.shields.io/badge/GitHub-Araf1011-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=Araf1011&theme=transparent&hide_border=true" width="70%" alt="GitHub streak">
+
+</div>
 
 ---
 
-### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
+## 🐍 Contribution Matrix
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake">
+</div>
+
+---
+
+## 🧠 How I Learn
+
+<div align="center">
+
+**LEARN** → **BUILD** → **BREAK** → **DEBUG** → **UNDERSTAND** → **IMPROVE** → **SHIP**
+
+</div>
+
+My goal is not to collect technologies. I want to understand the systems behind them and become better at designing, building, debugging, and shipping software.
+
+---
+
+## 🌌 Outside the IDE
+
+<div align="center">
+
+🎮 **Gaming** &nbsp; • &nbsp; 🏆 **Esports** &nbsp; • &nbsp; ✈️ **Travel** &nbsp; • &nbsp; 🎵 **Music** &nbsp; • &nbsp; 💡 **Side Projects**
+
+</div>
+
+---
+
+## 🤝 Let’s Build Something
+
+<div align="center">
+
+If you are building something interesting, learning in public, or just want to talk tech — feel free to connect.
+
+<br>
+
+<a href="https://github.com/Araf1011"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer">
 
 <sub>⚡ Keep building. Keep learning. Keep shipping.</sub>
 
