@@ -174,30 +174,33 @@ A web project focused on building a practical jersey shopping experience with a 
 
 ---
 
-## 📡 GitHub Live Dashboard
+## 📡 GitHub Command Center
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Araf1011&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=1800" height="180" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araf1011&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=1800" height="180" alt="Top languages">
+### 📊 GitHub Statistics
+
+<img src="./profile-summary-card-output/stats.svg" width="48%" alt="GitHub statistics">
+
+### 🧠 Top Languages
+
+<img src="./profile-summary-card-output/repos-per-language.svg" width="48%" alt="Top languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Araf1011&hide_border=true&background=00000000&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B" width="72%" alt="GitHub streak">
+### 🏆 GitHub Trophies
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Araf1011&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="GitHub trophies">
+<img src="./profile-trophy.svg" width="95%" alt="GitHub trophies">
 
 </div>
 
 ---
 
-## 📈 The Activity Wall
+## 📈 Activity Wall
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Araf1011&bg_color=0D1117&color=60A5FA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=ARAF%27S%20CODING%20ACTIVITY&radius=8" width="96%" alt="GitHub activity graph">
+<img src="./profile-summary-card-output/profile-details.svg" width="96%" alt="GitHub activity and contribution history">
 
 </div>
 
