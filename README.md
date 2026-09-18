@@ -180,11 +180,11 @@ A web project focused on building a practical jersey shopping experience with a 
 
 ### 📊 GitHub Statistics
 
-<img src="./profile-summary-card-output/stats.svg" width="48%" alt="GitHub statistics">
+<img src="./profile-summary-card-output/default/stats.svg" width="48%" alt="GitHub statistics">
 
 ### 🧠 Top Languages
 
-<img src="./profile-summary-card-output/repos-per-language.svg" width="48%" alt="Top languages">
+<img src="./profile-summary-card-output/default/repos-per-language.svg" width="48%" alt="Top languages">
 
 <br><br>
 
@@ -200,7 +200,7 @@ A web project focused on building a practical jersey shopping experience with a 
 
 <div align="center">
 
-<img src="./profile-summary-card-output/profile-details.svg" width="96%" alt="GitHub activity and contribution history">
+<img src="./profile-summary-card-output/default/profile-details.svg" width="96%" alt="GitHub activity and contribution history">
 
 </div>
 
