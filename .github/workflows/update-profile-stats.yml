@@ -11,33 +11,35 @@ permissions:
   contents: write
 
 jobs:
-  generate-profile-cards:
+  build-profile-cards:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub profile summary cards
+      - name: Generate GitHub summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
+          UTC_OFFSET: 6
+          THEME: default
+          AUTO_PUSH: true
 
       - name: Generate GitHub trophies
-        uses: ryo-ma/github-profile-trophy@master
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
-          output_path: profile-trophy.svg
+          options: 'username=${{ github.repository_owner }}&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6'
+          path: profile-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: onestar
 
-      - name: Commit generated cards
+      - name: Commit trophy card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output profile-trophy.svg
-          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          git add profile-trophy.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub trophies"
           git push
