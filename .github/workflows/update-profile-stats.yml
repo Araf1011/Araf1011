@@ -27,7 +27,7 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 6
           THEME: default
-          AUTO_PUSH: true
+          AUTO_PUSH: false
 
       - name: Generate GitHub trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
@@ -36,10 +36,10 @@ jobs:
           path: profile-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit trophy card
+      - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-trophy.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub trophies"
+          git add profile-summary-card-output profile-trophy.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub profile cards"
           git push
